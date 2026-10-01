@@ -1,0 +1,12 @@
+[
+  {"word": "apple", "translation": "яблоко"},
+  {"word": "book", "translation": "книга"},
+  {"word": "house", "translation": "дом"},
+  {"word": "friend", "translation": "друг"},
+  {"word": "water", "translation": "вода"},
+  {"word": "school", "translation": "школа"},
+  {"word": "morning", "translation": "утро"},
+  {"word": "family", "translation": "семья"},
+  {"word": "travel", "translation": "путешествие"},
+  {"word": "language", "translation": "язык"}
+]
